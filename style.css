@@ -2,3 +2,22 @@ body{
     background-color: whitesmoke;
 }
 
+#proyecto-1{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+#proyecto-1{
+    background-image: url('cgr.png');}
+
+#proyecto-2{
+        background-image: url('cgr.png');}
+
+#proyecto-3{
+ background-image: url('cgr.png');}
+
+.text-shadow-1 {
+
+    text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+
+}
