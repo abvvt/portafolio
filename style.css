@@ -1,7 +1,16 @@
 body{
     background-color: whitesmoke;
 }
-
+#presentacion{
+    min-height: 88vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-image: url("fondo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
 #proyecto-1{
     background-repeat: no-repeat;
     background-position: center;
