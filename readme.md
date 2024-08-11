@@ -6,14 +6,14 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto Desplegado (https://vercel.com/abigailvts-projects/portafolio/)](https://vercel.com/abigailvts-projects/portafolio)
+[Proyecto Desplegado (https://portafolio-blush-six.vercel.app/)](https://portafolio-blush-six.vercel.app/)
 
 ## Secciones de mi sitio
-![Presentación]()
-![Habilidades]()
-![Proyectos]()
-![Testimonios]()
-![Contacto]()
+![Presentación](assets\assetsReadme\presentación.png)
+![Habilidades](assets\assetsReadme\habilidades.png)
+![Proyectos](assets\assetsReadme\habilidades.png)
+![Testimonios](assets\assetsReadme\testimonios.png)
+![Contacto](assets\assetsReadme\contacto.png)
 
 
 ## Tecnologías
