@@ -1,29 +1,35 @@
 body{
-    background-color: whitesmoke;
+    background-color: #d3d3d3;
 }
 #presentacion{
     min-height: 88vh;
     display: flex;
     justify-content: start;
     align-items: center;
-    background-image: url("assets/fondo.png");
+    background-image: url("https://blog.systemplus.com.co/wp-content/uploads/2023/08/diseno-web.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; 
 }
+
+
 #proyecto-1{
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-}
-#proyecto-1{
-    background-image: url("assets/cg.png");}
+        background-image: url("assets/cg.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;}
 
 #proyecto-2{
-        background-image: url('cgr.png');}
+        background-image: url('assets/teje.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;}
 
 #proyecto-3{
- background-image: url('cgr.png');}
+         background-image: url('assets/gcc.png');
+         background-repeat: no-repeat;
+         background-position: center;
+         background-size: contain;}
 
 .text-shadow-1 {
 

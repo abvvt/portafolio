@@ -10,6 +10,11 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 ## Secciones de mi sitio
 ![Presentación]()
+![Habilidades]()
+![Proyectos]()
+![Testimonios]()
+![Contacto]()
+
 
 ## Tecnologías
 *HTML
