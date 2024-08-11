@@ -14,19 +14,19 @@ body{
 
 
 #proyecto-1{
-        background-image: url("assets/cg.png");
+        background-image: url("cg.png");
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;}
 
 #proyecto-2{
-        background-image: url('assets/teje.png');
+        background-image: url('teje.png');
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;}
 
 #proyecto-3{
-         background-image: url('assets/gcc.png');
+         background-image: url('gcc.png');
          background-repeat: no-repeat;
          background-position: center;
          background-size: contain;}
